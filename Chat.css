@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    margin-left: 130px;
+
+}
+
+.item {
+    width: 18%;
+    margin-left: 10px;
+
+
+    /* background-color: lightgray; */
+    text-align: center;
+}
+
+.subs-btn {
+    padding: 15px 30px;
+    background-color: #49be66e7;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    /* margin-right: 150px; */
+    font-weight: bold
+}
+
+h1 {
+    margin-left: 150px;
+    color: #484b48e7;
+    ;
+}
